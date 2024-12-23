@@ -132,6 +132,7 @@
   <ItemGroup>
     <ClInclude Include="ingredients.h" />
     <ClInclude Include="instructions.h" />
+    <ClInclude Include="recipe.h" />
     <ClInclude Include="recipebook.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

@@ -29,5 +29,8 @@
     <ClInclude Include="instructions.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="recipe.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
